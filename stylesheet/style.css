@@ -1,0 +1,16 @@
+.caja {
+    text-align: center;
+    border-style:solid;
+    border-width: 2px;
+       
+}
+.precio{
+    background-color: rgba(156, 199, 248, 0.651);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(141, 141, 250, 0.671);
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 10px;
+    color: rgb(41, 41, 114);
+}
